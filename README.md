@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b8d82fe8-9174-4435-98d9-4f89263c2954)
+
 
 # 📝 Todo App (PHP + MySQL)
 
@@ -114,8 +114,7 @@ You can now start adding tasks!
 
 ## 📸 Demo
 
-*(Add a screenshot or short screen recording here)*
-
+![image](https://github.com/user-attachments/assets/b8d82fe8-9174-4435-98d9-4f89263c2954)
 ---
 
 ## 📬 Contact
